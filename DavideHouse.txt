@@ -1,0 +1,26 @@
+name: Fridge
+subclass: CyclicFixed
+meter: electric
+Min units consumed:
+Max units consumed:
+Fixed units consumed: 2
+Probability switched on:
+Cycle length: 24/24
+
+name: Fridge
+subclass: CyclicFixed
+meter: electric
+Min units consumed:
+Max units consumed:
+Fixed units consumed: -3
+Probability switched on:
+Cycle length: 24/24
+
+name: TV
+subclass: RandomFixed
+meter: electric
+Min units consumed: 
+Max units consumed: 
+Fixed units consumed: 20
+Probability switched on: 1 in 15
+Cycle length: 
