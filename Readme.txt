@@ -1,8 +1,8 @@
-# House Simulation by Davide Gamba
+#House Simulation by Davide Gamba
 Smart Home Simulator was a coursework originally assigned in COMP1202 - the Programming I module
 at the University of Southampton.
 
-## Coursework Aims
+##Coursework Aims
 
 - Understand how to construct basic classes and implement methods.
 - Are able to take pseudo-code descriptions and construct working Java code from them.
@@ -11,11 +11,11 @@ at the University of Southampton.
 - Can correctly use polymorphism and I/O.
 - Can write code that it is understandable and conforms to good coding practice
 
-## Specification
+##Specification
 
 The aim of this coursework was to construct a simple simulation of the energy consumption- and energy generation- of a smart house. In the house are a number of appliances which consume/generate electricity or consume water when they operate, meters that record the amount of water and electricity consumed/generated and a battery which stores excess electricity if the house happens to generate more than it needs.
 
-## How to run the Smart Home Simulator
+##How to run the Smart Home Simulator
 
 Once you have downloaded all java classes and the configuration file ("house.txt" must be in the same folder), compile House.java from terminal:
 
